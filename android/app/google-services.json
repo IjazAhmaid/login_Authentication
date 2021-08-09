@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087755378967",
+    "project_id": "passemail-6ba6a",
+    "storage_bucket": "passemail-6ba6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087755378967:android:1f71c2ad8e5f4ec01c1752",
+        "android_client_info": {
+          "package_name": "com.example.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087755378967-j9bk35hf1otcfmgslpn68i0chcupera7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4Pk9m3NpDAQQcuqTX4_xzWnQae0r4jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087755378967-j9bk35hf1otcfmgslpn68i0chcupera7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
